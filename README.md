@@ -8,11 +8,11 @@ Extração de informações relevantes do XML, como nome do cliente, número do 
 Atualização automática de uma planilha do Google Sheets com as informações extraídas, facilitando o acompanhamento e controle de pedidos faturados.
 
 # Tecnologias Utilizadas
-Python
-IMAP para conexão ao servidor de e-mail
-XML Parsing com xml.etree.ElementTree
-Integração com Google Sheets usando gspread
-Fuzzy Matching com fuzzywuzzy para garantir a precisão da busca de dados
+- Python
+- IMAP para conexão ao servidor de e-mail
+- XML Parsing com xml.etree.ElementTree
+- Integração com Google Sheets usando gspread
+- Fuzzy Matching com fuzzywuzzy para garantir a precisão da busca de dados
 
 # Como Utilizar
 Clone o repositório.
